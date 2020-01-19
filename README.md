@@ -24,3 +24,5 @@ General Comments:
 - Subsequently, the Monte Carlo simulation plot changes with each run of the algorithm.
 - Conceptually, stocks with greater volatility tend to have greater fluctuations over time.
 - The Monte Carlo simulation plot is scaled based on the initial stock price (ex. at the end of one year, a given simulation with a value of 2 means the stock price doubled over one year).
+- In the histogram, the green line indicates the VaR, the red line indicates the CVar, and the thick black line indicates the Monte Carlo VaR.
+- Conceptually, the CVaR is always greater than or equal to the VaR.

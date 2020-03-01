@@ -1,21 +1,13 @@
 # monte-carlo-var
 Monte Carlo simulation in Python that generates 1000 probable future stock prices and computes the averaged Monte Carlo VaR (value-at-risk) for a given stock
 
-Instructions:
+To view the code and results:
+- Open the Jupyter notebook in Github.
+
+To run the algorithm:
 1. Go to the working directory where you want to store the Python and .csv files.
 2. Download monte-carlo-var.py and TSLA.csv in the desired working directory.
 3. Run Python script using the command: python monte-carlo-var.py
-
-Results:
-
-95% value-at-risk (VaR), 95% conditional value-at-risk (CVar), and Monte Carlo averaged VaR:
-![VaR%20Results](VaR%20Results.png)
-
-1000 Monte Carlo simulations of stock price fluctuation over one year:
-![MonteCarloSimulation](MonteCarloSimulation.png)
-
-Histogram of daily returns (from historical data):
-![ReturnsHistogram](ReturnsHistogram.png)
 
 General Comments:
 - This algorithm can be modified for any stock and any number of Monte Carlo simulations

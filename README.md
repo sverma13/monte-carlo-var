@@ -5,9 +5,9 @@ To view the code and results:
 - Open the Jupyter notebook in Github.
 
 To run the algorithm:
-1. Go to the working directory where you want to store the Python and .csv files.
-2. Download monte-carlo-var.py and TSLA.csv in the desired working directory.
-3. Run Python script using the command: python monte-carlo-var.py
+1. Go to the working directory where you want to store the Python and CSV files.
+2. Download Python script and CSV in the desired working directory.
+3. Run Python script.
 
 General Comments:
 - This algorithm can be modified for any stock and any number of Monte Carlo simulations
